@@ -16,9 +16,8 @@ class Me:
 
 ## Likes
 - 💻*Code*
-- 🎾Tennis: for the last 10 years (Actual lvl: *5th Category*)
+- 🎾Tennis: for the last 10 years (Actual lvl: *3rd Category*)
 - 🏀Basket: occasionally
-- 🎯Shooting: first year as member of the university team [Templarios PUCP](https://www.instagram.com/tiro_deportivo_pucp/)
 - 📚Reading Books: Science Fiction, Drama, Mistery
 - 🎧Music: Electro House, Rock (*Oldies but Goldies*), Classical, Lo-Fi
 
